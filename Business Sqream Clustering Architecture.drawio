@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T18:22:01.062Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="2k26-Mb2twwPEPRv5RpM" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-22T18:24:41.447Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="_Na0sH93VzBD2bt4o1Ks" version="24.7.1" type="github">
   <diagram name="Page-1" id="GVnWEppzbZ-14RWfRAGZ">
     <mxGraphModel dx="794" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,10 +64,10 @@
         <mxCell id="kV0U2IOlsODdjmUy4KQE-22" value="DR" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#274a9b;" parent="1" vertex="1">
           <mxGeometry x="580" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kV0U2IOlsODdjmUy4KQE-23" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Sqream Server1 (.80)&lt;/b&gt;" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png;fontColor=#375877;" parent="1" vertex="1">
+        <mxCell id="kV0U2IOlsODdjmUy4KQE-23" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Sqream Node 1&lt;/b&gt;" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png;fontColor=#375877;" parent="1" vertex="1">
           <mxGeometry x="90" y="450" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kV0U2IOlsODdjmUy4KQE-24" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Sqream Server2 (.82)&lt;/b&gt;" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png;fontColor=#375877;" parent="1" vertex="1">
+        <mxCell id="kV0U2IOlsODdjmUy4KQE-24" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Sqream Node 2&lt;/b&gt;" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png;fontColor=#375877;" parent="1" vertex="1">
           <mxGeometry x="90" y="690" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kV0U2IOlsODdjmUy4KQE-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=arrow;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" edge="1">
@@ -82,14 +82,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kV0U2IOlsODdjmUy4KQE-25" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.box;" parent="1" vertex="1">
-          <mxGeometry x="360" y="550" width="90" height="170" as="geometry" />
+          <mxGeometry x="359" y="550" width="91" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="kV0U2IOlsODdjmUy4KQE-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.462;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="kV0U2IOlsODdjmUy4KQE-23" target="kV0U2IOlsODdjmUy4KQE-25" edge="1">
+        <mxCell id="kV0U2IOlsODdjmUy4KQE-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="240" y="490" />
-              <mxPoint x="240" y="619" />
+              <mxPoint x="225" y="490" />
+              <mxPoint x="225" y="619" />
             </Array>
+            <mxPoint x="155" y="490" as="sourcePoint" />
+            <mxPoint x="360" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kV0U2IOlsODdjmUy4KQE-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.605;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
