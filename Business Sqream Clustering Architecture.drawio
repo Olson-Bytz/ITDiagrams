@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T18:24:41.447Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="_Na0sH93VzBD2bt4o1Ks" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-22T18:29:01.671Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="TOszM-UHYKT3EvcY2ju_" version="24.7.1" type="github">
   <diagram name="Page-1" id="GVnWEppzbZ-14RWfRAGZ">
     <mxGraphModel dx="794" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,13 +13,23 @@
         <mxCell id="kV0U2IOlsODdjmUy4KQE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#6d8764;strokeColor=#405f35;" parent="1" source="kV0U2IOlsODdjmUy4KQE-1" target="kV0U2IOlsODdjmUy4KQE-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kV0U2IOlsODdjmUy4KQE-1" value="&lt;b&gt;Sqream Server1 (.80)&lt;/b&gt;" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png;fontColor=#2b5e78;" parent="1" vertex="1">
+        <mxCell id="h9FEMcgzHjd8Uf2pVrOC-2" value="100g" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="kV0U2IOlsODdjmUy4KQE-9">
+          <mxGeometry x="-0.1061" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kV0U2IOlsODdjmUy4KQE-1" value="&lt;b&gt;Sqream Node 1&lt;/b&gt;" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png;fontColor=#2b5e78;" parent="1" vertex="1">
           <mxGeometry x="110" y="60" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kV0U2IOlsODdjmUy4KQE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#6d8764;strokeColor=#405f35;" parent="1" source="kV0U2IOlsODdjmUy4KQE-2" target="kV0U2IOlsODdjmUy4KQE-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kV0U2IOlsODdjmUy4KQE-2" value="&lt;b&gt;Sqream Server2 (.82)&lt;/b&gt;" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png;fontColor=#324b62;" parent="1" vertex="1">
+        <mxCell id="h9FEMcgzHjd8Uf2pVrOC-4" value="100g" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="kV0U2IOlsODdjmUy4KQE-10">
+          <mxGeometry x="-0.0703" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kV0U2IOlsODdjmUy4KQE-2" value="&lt;b&gt;Sqream Node 2&lt;/b&gt;" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png;fontColor=#324b62;" parent="1" vertex="1">
           <mxGeometry x="110" y="240" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kV0U2IOlsODdjmUy4KQE-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fillColor=#a20025;strokeColor=#902727;" parent="1" source="kV0U2IOlsODdjmUy4KQE-7" target="kV0U2IOlsODdjmUy4KQE-16" edge="1">
