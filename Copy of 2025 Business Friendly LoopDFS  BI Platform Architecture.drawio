@@ -427,23 +427,89 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RrmyPSkKlW_kuqG7KtUu-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="90" width="670" height="60" as="geometry" />
+        <mxCell id="BjdgJ_u9Jv62bXDOLO9D-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="165" width="140" height="335" as="geometry" />
         </mxCell>
-        <mxCell id="RrmyPSkKlW_kuqG7KtUu-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="165" width="140" height="365" as="geometry" />
+        <mxCell id="RrmyPSkKlW_kuqG7KtUu-1" value="BI LAYERED DATA ARCHITECTURE" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="60" y="90" width="900" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RrmyPSkKlW_kuqG7KtUu-3" value="Data Sources" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="180" width="80" height="30" as="geometry" />
+        <mxCell id="RrmyPSkKlW_kuqG7KtUu-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="165" width="140" height="335" as="geometry" />
         </mxCell>
-        <mxCell id="RrmyPSkKlW_kuqG7KtUu-5" value="Production Systems" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RrmyPSkKlW_kuqG7KtUu-3" value="Data Sources" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="85" y="180" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RrmyPSkKlW_kuqG7KtUu-5" value="Production Systems" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="220" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RrmyPSkKlW_kuqG7KtUu-6" value="Flat files" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RrmyPSkKlW_kuqG7KtUu-6" value="Flat files" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="280" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RrmyPSkKlW_kuqG7KtUu-7" value="APIs &amp;amp; External Sources" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RrmyPSkKlW_kuqG7KtUu-7" value="APIs &amp;amp; External Sources" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="340" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BjdgJ_u9Jv62bXDOLO9D-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="165" width="140" height="335" as="geometry" />
+        </mxCell>
+        <mxCell id="BjdgJ_u9Jv62bXDOLO9D-2" value="Data Integration" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="270" y="180" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BjdgJ_u9Jv62bXDOLO9D-4" value="ETL/ELT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="220" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BjdgJ_u9Jv62bXDOLO9D-5" value="Real Time" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="280" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BjdgJ_u9Jv62bXDOLO9D-7" value="Near Realtime" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="345" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BjdgJ_u9Jv62bXDOLO9D-8" value="Data Profiling and Cleansing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="410" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BjdgJ_u9Jv62bXDOLO9D-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="165" width="138" height="335" as="geometry" />
+        </mxCell>
+        <mxCell id="BjdgJ_u9Jv62bXDOLO9D-10" value="Data Stores" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="465" y="180" width="88" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BjdgJ_u9Jv62bXDOLO9D-11" value="Data Warehouse" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="220" width="68" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BjdgJ_u9Jv62bXDOLO9D-12" value="Data Marts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="666" y="250" width="68" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BjdgJ_u9Jv62bXDOLO9D-13" value="Operation Data Store" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="280" width="68" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BjdgJ_u9Jv62bXDOLO9D-14" value="Data Lake" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="345" width="68" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BjdgJ_u9Jv62bXDOLO9D-16" value="Data Modelling&amp;amp; Business Logic" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="656" y="180" width="94" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BjdgJ_u9Jv62bXDOLO9D-19" value="Data Governance &amp;amp; Security" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="666" y="320" width="68" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BjdgJ_u9Jv62bXDOLO9D-20" value="Data Virtualization" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="666" y="400" width="68" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BjdgJ_u9Jv62bXDOLO9D-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="165" width="140" height="335" as="geometry" />
+        </mxCell>
+        <mxCell id="BjdgJ_u9Jv62bXDOLO9D-22" value="Data Visualization &amp;amp; Analytics" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="846" y="180" width="88" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BjdgJ_u9Jv62bXDOLO9D-23" value="Power BI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="856" y="240" width="68" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BjdgJ_u9Jv62bXDOLO9D-24" value="Adhoc Queries" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="856" y="312.5" width="68" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BjdgJ_u9Jv62bXDOLO9D-25" value="Excel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="856" y="385" width="68" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BjdgJ_u9Jv62bXDOLO9D-26" value="Data Visualization Libraries" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="848" y="440" width="84" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
