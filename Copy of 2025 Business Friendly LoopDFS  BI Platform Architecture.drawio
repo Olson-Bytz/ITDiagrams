@@ -708,7 +708,7 @@
           <mxGeometry x="294.24" y="220" width="185.76" height="172" as="geometry" />
         </mxCell>
         <mxCell id="pGvpbaskSuwJFuIRsSgw-2" value="DATA ENGINEERING LOW LEVEL DATA ARCHITECTURE" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;gradientColor=#A2B8FB;gradientDirection=south;strokeColor=light-dark(#3863b7, #ededed);fontColor=light-dark(#2a3bbb, #ededed);fillColor=#DFF1E9;" parent="1" vertex="1">
-          <mxGeometry x="-190" y="90" width="1350" height="60" as="geometry" />
+          <mxGeometry x="-190" y="90" width="1360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p3qoI8zUK70S3j4itm1l-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#3251CD;" edge="1" parent="1" source="pGvpbaskSuwJFuIRsSgw-3" target="pGvpbaskSuwJFuIRsSgw-8">
           <mxGeometry relative="1" as="geometry" />
