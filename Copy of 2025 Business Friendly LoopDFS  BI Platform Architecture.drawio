@@ -746,7 +746,7 @@
         <mxCell id="9puEv165Pq21rWP33zgm-2" value="Telco Files, Production Dumps" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-130" y="340" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0rWIKsO2vOEGlxJGLBsr-5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#A2B8FB,#EDEDED);dashed=1;" parent="1" vertex="1">
+        <mxCell id="0rWIKsO2vOEGlxJGLBsr-5" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=light-dark(#c9b6b6, #ededed);" parent="1" vertex="1">
           <mxGeometry x="-170" y="377.5" width="220" height="165" as="geometry" />
         </mxCell>
         <mxCell id="9puEv165Pq21rWP33zgm-3" value="APIs &amp;amp; External Sources" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
