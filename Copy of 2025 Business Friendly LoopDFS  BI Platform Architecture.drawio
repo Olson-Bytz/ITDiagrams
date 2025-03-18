@@ -725,7 +725,7 @@
         <mxCell id="pGvpbaskSuwJFuIRsSgw-15" value="Data Stores" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=light-dark(#2A3BBB,#EDEDED);" parent="1" vertex="1">
           <mxGeometry x="744.56" y="170" width="88" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pGvpbaskSuwJFuIRsSgw-23" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;SQL Analytics&lt;/span&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#DFF1E9,#EDEDED);strokeColor=#DFF1E9;gradientColor=#A2B8FB;gradientDirection=south;glass=1;" parent="1" vertex="1">
+        <mxCell id="pGvpbaskSuwJFuIRsSgw-23" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;SQL Analytics&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#DFF1E9,#EDEDED);strokeColor=#DFF1E9;gradientColor=#A2B8FB;gradientDirection=south;glass=1;" parent="1" vertex="1">
           <mxGeometry x="960" y="165" width="200" height="355" as="geometry" />
         </mxCell>
         <mxCell id="pGvpbaskSuwJFuIRsSgw-24" value="Data Visualization &amp;amp; Analytics" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#2A3BBB,#EDEDED);fontStyle=1" parent="1" vertex="1">
@@ -746,7 +746,7 @@
         <mxCell id="9puEv165Pq21rWP33zgm-2" value="Telco Files, Production Dumps" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-130" y="340" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0rWIKsO2vOEGlxJGLBsr-5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#A2B8FB,#EDEDED);" parent="1" vertex="1">
+        <mxCell id="0rWIKsO2vOEGlxJGLBsr-5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#A2B8FB,#EDEDED);dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-170" y="377.5" width="220" height="165" as="geometry" />
         </mxCell>
         <mxCell id="9puEv165Pq21rWP33zgm-3" value="APIs &amp;amp; External Sources" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
